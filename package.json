@@ -1,0 +1,26 @@
+{
+  "name": "netcore-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReniaJM/Netcore-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReniaJM/Netcore-React/issues"
+  },
+  "homepage": "https://github.com/ReniaJM/Netcore-React#readme",
+  "devDependencies": {
+    "webpack": "^4.29.3"
+  },
+  "dependencies": {
+    "js-cookie": "^2.2.0"
+  }
+}
